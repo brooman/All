@@ -1,6 +1,6 @@
 {
   "name": "everything",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "The ULTIMATE tool",
   "main": "index.js",
   "bin": {
