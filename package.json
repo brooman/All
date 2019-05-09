@@ -1,0 +1,18 @@
+{
+  "name": "everything",
+  "version": "1.0.0",
+  "description": "The ULTIMATE tool",
+  "main": "index.js",
+  "bin": {
+    "everything": "./cli.js"
+  },
+  "author": "André Broman",
+  "license": "MIT",
+  "dependencies": {
+    "asciiart-logo": "^0.2.6",
+    "execa": "^1.0.0",
+    "inquirer": "^6.3.1",
+    "node-fetch": "^2.5.0",
+    "request": "^2.88.0"
+  }
+}
